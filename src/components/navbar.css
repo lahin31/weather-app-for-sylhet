@@ -1,0 +1,15 @@
+.Product_navbar {
+  display: flex;
+  padding-top: 0.5em;
+  border: 1px solid #a2a2a2;
+  background-color: #f4f4f4;
+  box-shadow: 0px 0px 14px 0px rgba(0, 0, 0, 0.75);
+}
+
+.Product_navbar h1 {
+  margin: 0;
+  color: #34495e;
+  padding: 5px;
+  flex: 1;
+  margin-bottom: 5px;
+}

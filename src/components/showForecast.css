@@ -1,0 +1,8 @@
+.show_forecast {
+  width: 100%;
+  background: black;
+  border: 1px solid black;
+  padding: 7px;
+  padding-left: 9px;
+  cursor: pointer;
+}

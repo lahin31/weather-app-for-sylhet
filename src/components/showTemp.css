@@ -1,0 +1,7 @@
+.show_temp {
+  width: 100%;
+  background: black;
+  border: 1px solid black;
+  padding: 7px;
+  cursor: pointer;
+}
