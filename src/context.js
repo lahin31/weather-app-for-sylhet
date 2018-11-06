@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 
 const Context = React.createContext();
-const API_KEY = "abacd002734db40c2a0707492fb41afc&units=metric";
+const API_KEY = "abacd002734db40c2a0707492fb41afc";
 
 const reducer = (state, action) => {
   if (action.type === "TOGGLE_FORECAST") {
